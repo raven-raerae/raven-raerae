@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi there I am Raven:)
+Welcome to my little corner of GitHub!
 
-<!--
-**raven-raerae/raven-raerae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year Computer Science student
+💻 Currently learning C++
+🧩 Exploring Data Structures & Algorithms
+🌐 Improving my web development skills
+🐍 Experimenting with Python
 
-Here are some ideas to get you started:
+## 🌱 Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Strengthening my programming fundamentals
+- Practising problem-solving
+- Building web development projects
+- Learning something new every day
+
+## 🛠️ My Tech Journey
+
+- Languages: Python, C++ (learning)
+- Web: HTML, CSS (learning and practising)
+- Tools: Git & GitHub
+
+## 🎯 Goals
+
+- Build projects independently
+- Become better at competitive programming
+- Participate in hackathons
+- Prepare for future internships
+
+---
+
+*Still learning. Still experimenting. Still debugging.* ✨
