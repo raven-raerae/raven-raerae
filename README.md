@@ -1,4 +1,4 @@
-## Hi there I am Raven:)
+# Hi there I am Raven:)
 Welcome to my little corner of GitHub!
 
 🎓 First-year Computer Science student
